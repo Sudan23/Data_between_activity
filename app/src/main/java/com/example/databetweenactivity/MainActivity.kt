@@ -7,7 +7,6 @@ import android.view.View
 import android.widget.EditText
 import android.widget.Toast
 
-const val EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE"
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
